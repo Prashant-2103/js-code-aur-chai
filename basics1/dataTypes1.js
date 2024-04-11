@@ -18,3 +18,5 @@ console.log(typeof temperature )
 console.log(typeof someThing )
 console.log(typeof thisThing )
 console.log(typeof thisThing2 )
+
+
